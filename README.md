@@ -62,7 +62,7 @@ Team project: a smart waste-segregation bin. I built the computer-vision softwar
 `Python` `TensorFlow` `MobileNetV2` `TFLite` `OpenCV`
 
 ### 🚗 [UAE Used Car Price Predictor](https://github.com/DanTan05/Used_Car_Price_Predictor_UAE)
-Predicts used-car prices in AED from 9,742 listings, with 28 features (17 engineered), model comparison and SHAP explanations.
+Predicts used-car prices in AED from 8,725 listings, with 28 features (17 engineered), model comparison and SHAP explanations.
 **XGBoost · MAE AED 36,985 · R² 0.50**
 `Python` `XGBoost` `scikit-learn` `SHAP`
 
